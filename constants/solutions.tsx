@@ -1,14 +1,14 @@
 export const solutions = [
     {
-        title: "Tesseract Fraktal",
+        title: "Tesseract Shard",
         content:
-            "EVM-compatible block sidechain, secured by a permissionless set of PoS validators.",
+            "Integrated API Gateway for Tesseract Protocol",
         icon: "/images/icon-1.svg",
         status: "ONLINE",
         color: "#89EB5B",
     },
     // {
-    //     title: "Tesseract Satchel",
+    //     title: "Tesseract Sonic",
     //     content:
     //         "Create exchanges and marketplaces that allow anyone around the world to invest.",
     //     icon: "/images/icon-2.svg",
@@ -17,9 +17,9 @@ export const solutions = [
     //     delay: 200,
     // },
     {
-        title: "Tesseract Shard",
+        title: "Tesseract Fraktal",
         content:
-            "Bring value to gamers by letting them take their loot to another game or into the real world.",
+            "Command Center for Web3 Game Ecosystem",
         icon: "/images/icon-3.svg",
         status: "ONLINE",
         color: "#89EB5B",
@@ -28,7 +28,7 @@ export const solutions = [
     {
         title: "Tesseract Lancer",
         content:
-            "Cryptographic proofs to connect highly accurate and available data/APIs to any smart contract.",
+            "Marketplace SDK for Games",
         icon: "/images/icon-4.svg",
         status: "DEVELOPMENT",
         color: "#EBB15B",
