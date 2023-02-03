@@ -21,7 +21,7 @@ const Team = ({}: TeamProps) => {
                         Meet the Tesseract team
                     </div>
                     <div className={cn("h2", styles.title)}>
-                        Built by developers, for&nbsp;developers.
+                        Games &nbsp; + Web3
                     </div>
                 </div>
                 <div className={styles.list}>

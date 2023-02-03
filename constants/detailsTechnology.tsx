@@ -2,7 +2,7 @@ export const details = [
     {
         content: (
             <>
-                <h2>Scaling solutions, amplified.</h2>
+                <h2>Tools, amplified.</h2>
                 <p>
                     Tesseract is committed to fostering the growth of Web3
                     applications by providing the infrastructure and security

@@ -7,7 +7,7 @@ import Scroll from "@/components/Scroll";
 const images = [
     "/images/figures/figure-1.png",
     "/images/figures/figure-2.png",
-    "/images/development-pic-5.png",
+    "/images/crystal-1.png",
     "/images/figures/figure-4.png",
     "/images/figures/figure-5.png",
     "/images/figures/figure-6.png",
@@ -21,12 +21,12 @@ const Main = ({ scrollToRef }: MainProps) => (
     <div className={cn("section", styles.section)}>
         <div className={cn("container", styles.container)}>
             <div className={styles.head}>
-                <div className={styles.stage}>INTRODUCING TESSERACT</div>
+                <div className={styles.stage}>TESSERACT PROTOCOL</div>
                 <div className={cn("h1", styles.title)}>
-                    Decentralised Infrastructure&nbsp;for Digital Experiences.
+                    Decentralized Infrastructure for&nbsp;Games
                 </div>
                 <div className={styles.info}>
-                    Tesseract is a decentralized gaming platform, ready for you to build on so you can focus on creating a great experience, not scaling your users.
+                Tesseract Protocol is a player-owned, open web3 infrastructure that any game can plug into.
             
                 </div>
             </div>

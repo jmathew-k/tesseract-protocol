@@ -8,10 +8,10 @@ export const details = [
         },
         content: (
             <>
-                <h2>Built by developers, for developers.</h2>
+                <h2>Games + Web3</h2>
                 <p>
                     Tesseract delivers tamper-proof inputs, outputs, and computations
-                    to support advanced smart contracts on any blockchain.
+                    to support advanced game mechanics on any EVM blockchain.
                 </p>
                 <ul>
                     <li>Fully benefit from scalable network effects</li>

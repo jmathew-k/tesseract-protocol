@@ -1,57 +1,57 @@
 export const development = [
     {
-        title: "Globally-accesible, transformational API",
+        title: "Player Identity",
         content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
+            "Non-transferrable user ID for global player profile",
         image: "/images/development-pic-1.png",
         color: "#6F5BEB",
         url: "/technology",
     },
     {
-        title: "Resilient, automated layer security",
+        title: "Collect Assets",
         content:
-            "Empower your blockchain security without sacrificing crucial resources and accessibility to its members.",
+            "Mint unique in-game assets as Non-Fungible Tokens",
         image: "/images/development-pic-2.png",
         color: "#EBB15B",
         delay: 150,
         url: "/technology",
     },
     {
-        title: "Seamless connection to any API tools",
+        title: "Proof of Play",
         content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
+            "Key player interactions are on-chain transactions",
         image: "/images/development-pic-3.png",
         color: "#89EB5B",
         delay: 300,
         url: "/technology",
     },
     {
-        title: "Reliable, tamper-proof network",
+        title: "Governance Built-In",
         content:
-            "Use cryptographic proofs to connect highly accurate and available data/APIs to any smart contract.",
+            "Decentralized guilds with staked token holder governance",
         image: "/images/development-pic-1.png",
         color: "#6F5BEB",
         delay: 450,
         url: "/technology",
     },
     {
-        title: "Resilient, automated layer security",
+        title: "Game-Fi Mechanics",
         content:
-            "Empower your blockchain security without sacrificing crucial resources and accessibility to its members.",
+            " Economy of rarest assets earned through player skill & collaborative interactions",
         image: "/images/development-pic-2.png",
         color: "#EBB15B",
         delay: 600,
         url: "/technology",
     },
-    {
-        title: "Seamless connection to any API tools",
-        content:
-            "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
-        image: "/images/development-pic-3.png",
-        color: "#89EB5B",
-        delay: 750,
-        url: "/technology",
-    },
+    // {
+    //     title: "GOVERNANCE BUILT-IN",
+    //     content:
+    //         "Your data can be transformed, organized, and shared across applications for anyone to query with just a few keystrokes.",
+    //     image: "/images/development-pic-3.png",
+    //     color: "#89EB5B",
+    //     delay: 750,
+    //     url: "/technology",
+    // },
 ];
 
 export const developmentTechnology = [

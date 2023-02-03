@@ -6,7 +6,7 @@ import AboutUs from "./AboutUs";
 import Statistics from "./Statistics";
 import Solutions from "./Solutions";
 import Posts from "@/components/Posts";
-import Reviews from "@/components/Reviews";
+// import Reviews from "@/components/Reviews";
 import JoinCommunity from "@/components/JoinCommunity";
 
 import { posts } from "@/mocks/posts";
@@ -28,7 +28,7 @@ const HomePage = () => {
                 info="Stay current on the latest Tesseract project developments, news, and content, updated daily."
                 posts={posts}
             />
-            <Reviews reviews={reviews} />
+            {/* <Reviews reviews={reviews} /> */}
             <JoinCommunity title="Want to get involved?" />
         </Layout>
     );

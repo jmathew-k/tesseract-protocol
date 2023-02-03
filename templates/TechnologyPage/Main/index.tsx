@@ -21,7 +21,7 @@ const Main = ({ scrollToRef }: MainProps) => (
             <div className={styles.wrap}>
                 <div className={styles.stage}>technology</div>
                 <div className={cn("h1", styles.title)}>
-                    Built by developers, for developers.
+                    Built for players and developers.
                 </div>
                 <div className={styles.info}>
                     Tesseract delivers tamper-proof inputs, outputs, and computations

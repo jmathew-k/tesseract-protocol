@@ -7,15 +7,15 @@ export const solutions = [
         status: "ONLINE",
         color: "#89EB5B",
     },
-    {
-        title: "Tesseract Satchel",
-        content:
-            "Create exchanges and marketplaces that allow anyone around the world to invest.",
-        icon: "/images/icon-2.svg",
-        status: "ONLINE",
-        color: "#89EB5B",
-        delay: 200,
-    },
+    // {
+    //     title: "Tesseract Satchel",
+    //     content:
+    //         "Create exchanges and marketplaces that allow anyone around the world to invest.",
+    //     icon: "/images/icon-2.svg",
+    //     status: "ONLINE",
+    //     color: "#89EB5B",
+    //     delay: 200,
+    // },
     {
         title: "Tesseract Shard",
         content:
@@ -33,24 +33,24 @@ export const solutions = [
         status: "DEVELOPMENT",
         color: "#EBB15B",
     },
-    {
-        title: "Tesseract Echo",
-        content:
-            "Empower your community to organize and allocate resources to its members. ",
-        icon: "/images/icon-5.svg",
-        status: "DEVELOPMENT",
-        color: "#EBB15B",
-        delay: 200,
-    },
-    {
-        title: "Tesseract Epoc",
-        content:
-            "Protect dApps from insolvency by auditing the reserves of tokens used as collateral.",
-        icon: "/images/icon-6.svg",
-        status: "VOTING",
-        color: "#6F5BEB",
-        delay: 400,
-    },
+    // {
+    //     title: "Tesseract Echo",
+    //     content:
+    //         "Empower your community to organize and allocate resources to its members. ",
+    //     icon: "/images/icon-5.svg",
+    //     status: "DEVELOPMENT",
+    //     color: "#EBB15B",
+    //     delay: 200,
+    // },
+    // {
+    //     title: "Tesseract Epoc",
+    //     content:
+    //         "Protect dApps from insolvency by auditing the reserves of tokens used as collateral.",
+    //     icon: "/images/icon-6.svg",
+    //     status: "VOTING",
+    //     color: "#6F5BEB",
+    //     delay: 400,
+    // },
 ];
 
 export const images = [
