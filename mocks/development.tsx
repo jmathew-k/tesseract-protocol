@@ -2,7 +2,7 @@ export const development = [
     {
         title: "Player Identity",
         content:
-            "Non-transferrable user ID for global player profile",
+            " Ecosystem independent non-transferrable player profile",
         image: "/images/development-pic-1.png",
         color: "#6F5BEB",
         url: "/technology",
@@ -10,7 +10,7 @@ export const development = [
     {
         title: "Collect Assets",
         content:
-            "Mint unique in-game assets as Non-Fungible Tokens",
+            "Mint & collect unique in-game assets as Non-Fungible Tokens",
         image: "/images/development-pic-2.png",
         color: "#EBB15B",
         delay: 150,
@@ -19,14 +19,14 @@ export const development = [
     {
         title: "Proof of Play",
         content:
-            "Key player interactions are on-chain transactions",
+            "Key player interactions as on-chain transactions",
         image: "/images/development-pic-3.png",
         color: "#89EB5B",
         delay: 300,
         url: "/technology",
     },
     {
-        title: "Governance Built-In",
+        title: "Governance",
         content:
             "Decentralized guilds with staked token holder governance",
         image: "/images/development-pic-1.png",
@@ -35,9 +35,9 @@ export const development = [
         url: "/technology",
     },
     {
-        title: "Game-Fi Mechanics",
+        title: "Game-Fi",
         content:
-            " Economy of rarest assets earned through player skill & collaborative interactions",
+            "DeFi mechanics for assets earned through player skill & collaboration",
         image: "/images/development-pic-2.png",
         color: "#EBB15B",
         delay: 600,

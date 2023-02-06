@@ -26,7 +26,7 @@ const Main = ({ scrollToRef }: MainProps) => (
                     Decentralized Infrastructure for&nbsp;Games
                 </div>
                 <div className={styles.info}>
-                Tesseract Protocol is a player-owned, open web3 infrastructure that any game can plug into.
+                Tesseract Protocol is a player-owned, open web3 infrastructure that any game can plug into
             
                 </div>
             </div>
