@@ -13,10 +13,9 @@ const Main = ({ scrollToRef }: MainProps) => (
         <div className={cn("container", styles.container)}>
             <div className={styles.wrap}>
                 <div className={styles.stage}>about us</div>
-                <div className={cn("h1", styles.title)}>Tesseract Fintech</div>
+                <div className={cn("h1", styles.title)}>Tesseract XYZ</div>
                 <div className={styles.info}>
-                    Tesseract delivers tamper-proof inputs, outputs, and computations
-                    to support advanced smart contracts on any blockchain
+                Player-owned, open web3 infrastructure for digital experiences
                 </div>
                 <Scroll
                     className={styles.scroll}

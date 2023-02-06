@@ -26,9 +26,9 @@ const Details = ({ scrollToRef }: DetailsProps) => {
                     <div className={styles.col}>
                         <div className={styles.item}>
                             <div className={styles.category}>Support</div>
-                            <Link href="mailto:hello@ui8.net">
+                            <Link href="mailto:hello@tesseractxyz.com">
                                 <a className={cn("h5", styles.content)}>
-                                    hello@ui8.net
+                                    hello@tesseractxyz.com
                                 </a>
                             </Link>
                         </div>

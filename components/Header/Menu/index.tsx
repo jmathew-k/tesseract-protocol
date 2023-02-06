@@ -136,11 +136,11 @@ const Menu = ({ navigation, socials, onClick }: MenuProps) => {
                                           </div>
                                           <a
                                               className={styles.email}
-                                              href="mailto:support@ui8.net"
+                                              href="mailto:hello@tesseractxyz.com"
                                               target="_blank"
                                               rel="noreferrer"
                                           >
-                                              support@ui8.net
+                                              hello@tesseractxyz.com
                                           </a>
                                       </div>
                                   </div>

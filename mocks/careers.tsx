@@ -5,7 +5,7 @@ export const careers = [
             "Stay current on the latest Tesseract project developments, news, and content, updated daily.",
         image: "/images/blog/photo-1.png",
         status: ["REMOTE", "FULL-TIME"],
-        url: "https://ui8.net/",
+        url: "https://tesseractxyz.com/",
     },
     {
         title: "Web3 Developer",
@@ -13,7 +13,7 @@ export const careers = [
             "Stay current on the latest Tesseract project developments, news, and content, updated daily.",
         image: "/images/blog/photo-2.png",
         status: ["REMOTE", "CONTRACT"],
-        url: "https://ui8.net/",
+        url: "https://tesseractxyz.com/",
     },
     {
         title: "Project Manager",
@@ -21,7 +21,7 @@ export const careers = [
             "Stay current on the latest Tesseract project developments, news, and content, updated daily.",
         image: "/images/blog/photo-3.png",
         status: ["REMOTE", "FULL-TIME"],
-        url: "https://ui8.net/",
+        url: "https://tesseractxyz.com/",
     },
     {
         title: "3D Illustrator",
@@ -29,7 +29,7 @@ export const careers = [
             "Stay current on the latest Tesseract project developments, news, and content, updated daily.",
         image: "/images/blog/photo-4.png",
         status: ["REMOTE", "CONTRACT"],
-        url: "https://ui8.net/",
+        url: "https://tesseractxyz.com/",
     },
     {
         title: "Frontend Developer",
@@ -37,6 +37,6 @@ export const careers = [
             "Stay current on the latest Tesseract project developments, news, and content, updated daily.",
         image: "/images/blog/photo-1.png",
         status: ["REMOTE", "FULL-TIME"],
-        url: "https://ui8.net/",
+        url: "https://tesseractxyz.com/",
     },
 ];

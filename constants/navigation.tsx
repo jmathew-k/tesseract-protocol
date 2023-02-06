@@ -9,7 +9,7 @@ export const headerNavigation = [
     },
     {
         title: "Community",
-        url: "https://ui8.net/",
+        url: "https://tesseractxyz.com/",
         external: true,
     },
     {
@@ -29,7 +29,7 @@ export const headerNavigation = [
 export const footerNavigation = [
     {
         title: "Community",
-        url: "https://ui8.net/",
+        url: "https://tesseractxyz.com/",
         external: true,
     },
     {

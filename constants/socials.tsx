@@ -1,22 +1,22 @@
 export const socials = [
     {
         icon: "discord",
-        href: "https://ui8.net/",
+        href: "https://tesseractxyz.com/",
     },
     {
         icon: "twitter",
-        href: "https://twitter.com/ui8",
+        href: "https://tesseractxyz.com/",
     },
     {
         icon: "instagram",
-        href: "https://www.instagram.com/ui8net/",
+        href: "https://tesseractxyz.com/",
     },
     {
         icon: "telegram",
-        href: "https://ui8.net/",
+        href: "https://tesseractxyz.com/",
     },
     {
         icon: "facebook",
-        href: "https://www.facebook.com/ui8.net/",
+        href: "https://tesseractxyz.com/",
     },
 ];
