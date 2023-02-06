@@ -8,15 +8,15 @@ export const details = [
         },
         content: (
             <>
-                <h2>Web3 Infrastructure</h2>
+                <h2>New Framework for Games</h2>
                 <p>
                     Tesseract delivers tamper-proof inputs, outputs, and computations
                     to support advanced player interactions on any EVM blockchain.
                 </p>
                 <ul>
-                    <li>Fully benefit from scalable network effects</li>
-                    <li>Inherently more secure than all competitors</li>
-                    <li>More open and powerful with 0.001% downtime</li>
+                    <li>Open source and composable EVM contracts</li>
+                    <li>Inherently more secure than all centralized providers</li>
+                    <li>More transparent and powerful with 0.001% downtime</li>
                 </ul>
             </>
         ),
@@ -30,7 +30,7 @@ export const details = [
         },
         content: (
             <>
-                <h2>Top blockchains build on Tesseract.</h2>
+                <h2>Why build on Tesseract?</h2>
                 <p>
                     Tesseract is committed to fostering the growth of Web3
                     applications by providing the infrastructure and security
