@@ -13,9 +13,10 @@ const Main = ({ scrollToRef }: MainProps) => (
         <div className={cn("container", styles.container)}>
             <div className={styles.wrap}>
                 <div className={styles.stage}>about us</div>
-                <div className={cn("h1", styles.title)}>Tesseract XYZ</div>
+                <div className={cn("h1", styles.title)}>Onix Fintech</div>
                 <div className={styles.info}>
-                Player-owned, open web3 infrastructure for digital experiences
+                    Onix delivers tamper-proof inputs, outputs, and computations
+                    to support advanced smart contracts on any blockchain
                 </div>
                 <Scroll
                     className={styles.scroll}

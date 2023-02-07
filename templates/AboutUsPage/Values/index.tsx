@@ -6,17 +6,17 @@ import { hexToRgbA } from "@/utils/index";
 
 const list = [
     {
-        title: "Everything Tesseract weekly report",
+        title: "Everything Onix weekly report",
         status: "TAG LINE",
         color: "#EB5BE5",
     },
     {
-        title: "Everything Tesseract weekly report",
+        title: "Everything Onix weekly report",
         status: "TAG LINE",
         color: "#6F5BEB",
     },
     {
-        title: "Everything Tesseract weekly report",
+        title: "Everything Onix weekly report",
         status: "TAG LINE",
         color: "#89EB5B",
     },
@@ -34,7 +34,7 @@ const Values = ({}: ValuesProps) => (
                         Next-gen for&nbsp;top blockchain
                     </div>
                     <div className={styles.content}>
-                        Tesseract believes in Web3 for all. Tesseract is a decentralised
+                        Onix believes in Web3 for all. Onix is a decentralised
                         blockchain scaling platform that enables developers to
                         build scalable user-friendly dApps with low transaction
                         fees without ever sacrificing on security.
