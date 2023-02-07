@@ -34,6 +34,7 @@ export const team = [
     //     photo: "/images/team/photo-6.png",
     //     delay: 400,
     // },
+    
     // {
     //     name: "Richie Larson",
     //     position: "Sr. Engineer - FauxChain",
